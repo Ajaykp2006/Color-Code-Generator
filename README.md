@@ -1,12 +1,12 @@
 # 🎨 Advanced Responsive Color Generator
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)]([https://your-live-link-here.com](https://color-code-gen.netlify.app/))
+[![Live Demo]([https://your-live-link-here.com](https://color-code-gen.netlify.app/))
 
 A sleek, lightweight, and interactive color generator built with pure HTML, CSS, and Vanilla JavaScript. This tool allows developers and designers to generate random colors, pick custom colors, and instantly copy Hex or RGB codes to their clipboard.
 
 ## 📸 Preview
 
-![Color Generator Screenshot](<img width="1917" height="1088" alt="Screenshot 2026-07-19 012056" src="https://github.com/user-attachments/assets/e591bc14-4c90-4377-a4d5-ecc7fb704089" />)
+![Color Generator Screenshot]<img width="1917" height="1088" alt="Screenshot 2026-07-19 012056" src="https://github.com/user-attachments/assets/e591bc14-4c90-4377-a4d5-ecc7fb704089" />
 
 
 ## ✨ Features
