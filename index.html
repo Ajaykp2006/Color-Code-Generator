@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Advanced Color Generator</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="picker-container">
+      <button id="generateBtn">Generate Random Color 🎲</button>
+
+      <div class="controls">
+        <div class="code-display">
+          <h2 id="hexCode" class="code-text" title="Click to copy Hex">
+            #5856D6
+          </h2>
+          <p id="rgbCode" class="code-text" title="Click to copy RGB">
+            rgb(88, 86, 214)
+          </p>
+        </div>
+        <input type="color" id="colorInput" value="#5856D6" />
+      </div>
+
+      <div class="swatches">
+        <!-- Codes added directly inside the divs -->
+        <div class="swatch" style="background: #ff3b30" data-color="#FF3B30">
+          #FF3B30
+        </div>
+        <div class="swatch" style="background: #ff9500" data-color="#FF9500">
+          #FF9500
+        </div>
+        <div class="swatch" style="background: #ffcc00" data-color="#FFCC00">
+          #FFCC00
+        </div>
+        <div class="swatch" style="background: #4cd964" data-color="#4CD964">
+          #4CD964
+        </div>
+        <div class="swatch" style="background: #5ac8fa" data-color="#5AC8FA">
+          #5AC8FA
+        </div>
+        <div class="swatch" style="background: #007aff" data-color="#007AFF">
+          #007AFF
+        </div>
+        <div class="swatch" style="background: #5856d6" data-color="#5856D6">
+          #5856D6
+        </div>
+        <div class="swatch" style="background: #ff2d55" data-color="#FF2D55">
+          #FF2D55
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
