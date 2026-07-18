@@ -41,11 +41,5 @@ Because this project uses vanilla web technologies, there is no build process or
 3. **Use Presets:** Click any of the color swatches at the bottom of the card to jump to that color.
 4. **Copy Code:** Hover over the `#HEX` or `rgb()` text. Click it once, and it will confirm the code has been copied to your clipboard.
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! 
-Feel free to check the [issues page](#) if you want to contribute.
-
-## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
