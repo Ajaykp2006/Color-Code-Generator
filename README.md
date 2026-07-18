@@ -2,7 +2,7 @@
 
 ## 🔗 Important Links
 
-- **Live Website:** [color-code-gen.vercel.app](https://color-code-gen.netlify.app/)
+- **Live Website:** [color-code-gen.vercel.app](https://color-code-gen.netlify.app/)<br><br>
 A sleek, lightweight, and interactive color generator built with pure HTML, CSS, and Vanilla JavaScript. This tool allows developers and designers to generate random colors, pick custom colors, and instantly copy Hex or RGB codes to their clipboard.
 
 ## 📸 Preview
