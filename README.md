@@ -1,6 +1,6 @@
 # 🎨 Advanced Responsive Color Generator
 
-[![Live Demo]([https://your-live-link-here.com](https://color-code-gen.netlify.app/))
+![Live Demo]([https://color-code-gen.netlify.app](https://color-code-gen.netlify.app)
 
 A sleek, lightweight, and interactive color generator built with pure HTML, CSS, and Vanilla JavaScript. This tool allows developers and designers to generate random colors, pick custom colors, and instantly copy Hex or RGB codes to their clipboard.
 
