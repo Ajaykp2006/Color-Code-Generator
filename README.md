@@ -40,6 +40,3 @@ Because this project uses vanilla web technologies, there is no build process or
 2. **Generate Random:** Click the large "Generate Random Color 🎲" button to let the math do the work.
 3. **Use Presets:** Click any of the color swatches at the bottom of the card to jump to that color.
 4. **Copy Code:** Hover over the `#HEX` or `rgb()` text. Click it once, and it will confirm the code has been copied to your clipboard.
-
-
-This project is open source and available under the [MIT License](LICENSE).
